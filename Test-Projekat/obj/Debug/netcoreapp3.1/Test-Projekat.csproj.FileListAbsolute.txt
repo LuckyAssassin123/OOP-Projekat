@@ -1,0 +1,14 @@
+C:\Users\Sinisa\Desktop\porjekat\Test-Projekat\bin\Debug\netcoreapp3.1\Test-Projekat.exe
+C:\Users\Sinisa\Desktop\porjekat\Test-Projekat\bin\Debug\netcoreapp3.1\Test-Projekat.deps.json
+C:\Users\Sinisa\Desktop\porjekat\Test-Projekat\bin\Debug\netcoreapp3.1\Test-Projekat.runtimeconfig.json
+C:\Users\Sinisa\Desktop\porjekat\Test-Projekat\bin\Debug\netcoreapp3.1\Test-Projekat.runtimeconfig.dev.json
+C:\Users\Sinisa\Desktop\porjekat\Test-Projekat\bin\Debug\netcoreapp3.1\Test-Projekat.dll
+C:\Users\Sinisa\Desktop\porjekat\Test-Projekat\bin\Debug\netcoreapp3.1\Test-Projekat.pdb
+C:\Users\Sinisa\Desktop\porjekat\Test-Projekat\obj\Debug\netcoreapp3.1\Test-Projekat.csproj.AssemblyReference.cache
+C:\Users\Sinisa\Desktop\porjekat\Test-Projekat\obj\Debug\netcoreapp3.1\Test-Projekat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sinisa\Desktop\porjekat\Test-Projekat\obj\Debug\netcoreapp3.1\Test-Projekat.AssemblyInfoInputs.cache
+C:\Users\Sinisa\Desktop\porjekat\Test-Projekat\obj\Debug\netcoreapp3.1\Test-Projekat.AssemblyInfo.cs
+C:\Users\Sinisa\Desktop\porjekat\Test-Projekat\obj\Debug\netcoreapp3.1\Test-Projekat.csproj.CoreCompileInputs.cache
+C:\Users\Sinisa\Desktop\porjekat\Test-Projekat\obj\Debug\netcoreapp3.1\Test-Projekat.dll
+C:\Users\Sinisa\Desktop\porjekat\Test-Projekat\obj\Debug\netcoreapp3.1\Test-Projekat.pdb
+C:\Users\Sinisa\Desktop\porjekat\Test-Projekat\obj\Debug\netcoreapp3.1\Test-Projekat.genruntimeconfig.cache
